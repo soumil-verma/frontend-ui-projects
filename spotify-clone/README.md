@@ -52,6 +52,7 @@ This project focuses purely on **UI design, responsiveness, and user experience*
 
 ## 📂 Project Structure
 
+```bash
 spotify-clone/
 │
 ├── public/
@@ -67,7 +68,7 @@ spotify-clone/
 │
 ├── .gitignore             # Git ignored files
 ├── index.html             # Main HTML file (Vite)
-├── package.json           # Project dependencies & scripts
+├── package.json           # Dependencies & scripts
 ├── package-lock.json      # Dependency lock file
 │
 ├── tailwind.config.js     # Tailwind CSS configuration
@@ -76,7 +77,6 @@ spotify-clone/
 ├── vite.config.js         # Vite configuration
 │
 └── README.md              # Project documentation
-
 
 ---
 
