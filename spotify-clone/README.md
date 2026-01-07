@@ -51,17 +51,32 @@ This project focuses purely on **UI design, responsiveness, and user experience*
 ---
 
 ## 📂 Project Structure
+
 spotify-clone/
 │
-├── src/
-├ ├── assets/ 
-│ ├── components/
-| ├── context/ 
-│ └── App.jsx
+├── public/
 │
-├── index.html
-├── index.css
-└── README.md
+├── src/
+│   ├── assets/            # Images, icons, music thumbnails, etc.
+│   ├── components/        # Reusable UI components
+│   ├── context/           # Context API (Player / Global state)
+│   │
+│   ├── App.jsx            # Root React component
+│   ├── index.css          # Global styles (Tailwind CSS)
+│   └── main.jsx           # React entry point
+│
+├── .gitignore             # Git ignored files
+├── index.html             # Main HTML file (Vite)
+├── package.json           # Project dependencies & scripts
+├── package-lock.json      # Dependency lock file
+│
+├── tailwind.config.js     # Tailwind CSS configuration
+├── postcss.config.js      # PostCSS configuration
+├── eslint.config.js       # ESLint configuration
+├── vite.config.js         # Vite configuration
+│
+└── README.md              # Project documentation
+
 
 ---
 
