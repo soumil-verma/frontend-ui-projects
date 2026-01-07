@@ -7,7 +7,7 @@ This project focuses purely on **UI design, responsiveness, and user experience*
 
 ## 🚀 Live Demo
 
-📦 **GitHub Repo:** https://github.com/soumil-verma/frontend-ui-projects/spotify-clone
+📦 **GitHub Repo:** [https://github.com/soumil-verma/frontend-ui-projects/spotify-clone](https://github.com/soumil-verma/frontend-ui-projects/tree/main/spotify-clone)
 
 ---
 
