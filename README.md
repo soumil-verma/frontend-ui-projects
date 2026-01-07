@@ -1,31 +1,14 @@
 # Frontend UI Projects
 
-This repository contains my frontend UI practice projects.
+A collection of modern frontend UI projects built using React, Vite, and Tailwind CSS.
 
-I am learning how to build responsive user interfaces using basic frontend technologies.
+## Projects
+- 🎵 **Spotify Clone** – Responsive music streaming UI
 
----
+## Tech Stack
+- React
+- Vite
+- Tailwind CSS
 
-## Technologies Used
-
-- HTML  
-- CSS  
-- JavaScript
-- React.js
-- Tailwindcss
-
----
-
-## Tools
-
-- VS Code  
-- Browser Developer Tools  
-- Git & GitHub  
-
----
-
-## Status
-
-🚧 Learning in progress  
-UI projects will be added and improved as I continue learning frontend development.
-
+## Author
+Soumil Verma
